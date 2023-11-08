@@ -1,0 +1,1 @@
+round_epochs,val_loss,val_categorical_accuracy,val_fbeta_score,val_fmeasure,loss,categorical_accuracy,fbeta_score,fmeasure,lr,first_neuron,hidden_layers,batch_size,epochs,dropout,weight_regulizer,emb_output_dims,optimizer,losses,activation
